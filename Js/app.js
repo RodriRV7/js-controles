@@ -11,5 +11,5 @@ document
 
 function hola(nombre, apellido) {
     console.log(nombre, apellido);
-    // codigo reutilizable
+    // codigoS reutilizable
 }
